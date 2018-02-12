@@ -1,0 +1,169 @@
+/*
+  *** Please respect the copyright. DONT DELETE THIS! ***
+Made by: ZeroUnix
++ Facebook: https://fb.me/ZeroUnix.error/
++ Email: zerounix32@gmail.com
++ Blogspot: https://zerounix32.blogspot.com/
++ Website: http://zerosec.pe.hu
+Copyright (c) ZeroUnix 2016. All rights reserved.
+*/
+
+@media only screen and (max-width: 1600px) {
+.z-panel-top {
+  background-position: center top;
+}
+.z-content-wrap {
+  position: relative;
+}
+.z-mainNav-wrap {
+  float: right;
+}
+
+#particles-js {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: #000000;
+  }
+.z-manNav-area {
+  display: inline-block;
+  margin-right: 1em;
+  padding-right: 1em;
+  text-align: left;
+}
+.z-img {
+        background-attachment: scroll;
+    }
+.z-img-ctrl {
+	 background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}    
+
+.z-search-width {
+  width: 220px;
+margin: 0 auto;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+}
+.z-bg-kas {
+  background-color: #3CBC8D!important;
+  color: #fff!important;
+}
+.z-kas, .z-color-green-spec {
+  color: #3CBC8D;
+}
+
+.z-navbar {
+  height: 46px;
+  position: relative;
+  box-sizing: border-box;
+}
+
+.z-navbar-form {
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+.z-fixed-pos-top {
+  top: 0;
+  border-width: 0 0 1px;
+  border-top-width: 0px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+}
+.z-footer {
+  position:fixed;
+  left:0px; right:0px;
+  bottom:0px;
+}
+.z-kas-border {
+  border-top: 1px solid #d1d1d1!important;
+    border-top-width: 1px!important;
+    border-top-style: solid!important;
+    border-top-color: #3CBC8D!important;
+}
+
+.z-footer-container {
+  margin-top: 0;
+border-top: 1px solid #d1d1d1;
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-top-color: #3CBC8D;
+margin-bottom: 6px;
+padding-top: 18px;
+}
+
+.z-footer-bg-black {
+	background-color: #2a2730!important;
+	text-align: center;
+}
+.z-text-grey {
+	color: #99979c!important;
+}
+.z-glass {
+  opacity: .8!important;
+}
+
+.z-static {
+  position: static;
+}
+
+.z-icon {
+	font-size: 200px;
+
+}
+
+.z-img-container {
+	position: relative;
+	width: 100%; /*IE 6*/
+}
+
+.z-auto-margin {
+	margin: auto;
+}
+
+.z-vidbg
+.container-fluid {
+	overflow: auto;
+	position: relative;
+}
+
+.z-vidbg 
+video.fillWidth {
+	 height: 100%;
+    max-height: 100%;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    z-index: 0;
+}
+
+.z-vid-container .z.vidbg {
+	    height: 100%;
+    max-height: 100%;
+    overflow: hidden;
+    position: absolute !important;
+    top: 0;
+    width: 100%;
+    z-index: 0;
+}
+
+.z-inited {
+  visibility: visible;
+}
+li.z-menu-item {
+    border-color: rgba(222, 50, 65, 0);
+  }
+  li.z-menu-item {
+    border-color: rgba(58, 200, 212, 0);
+}
+html,body {
+	height: 100% !important;
+	margin: 0;
+}
+
+
+}
